@@ -1,22 +1,22 @@
 
 @font-face {
   font-family: "Montserrat - Medium - 15";
-  src: url(/public/Fonts/montserat/Montserrat-Medium.otf);
+  src: url(/public/Fonts/montserat/Montserrat-Medium.otf) format("opentype");
 }
 
 @font-face {
   font-family: "Montserrat - Regular - 15";
-  src: url(/public/Fonts/montserat/Montserrat-Medium.otf);
+  src: url(/public/Fonts/montserat/Montserrat-Medium.otf) format("opentype");
 }
 
 @font-face {
   font-family: "Avenir - Book - 12";
-  src: url(/public/Fonts/avenir/Avenir-Book.ttf);
+  src: url(/public/Fonts/avenir/Avenir-Book.ttf) format("opentype");
 }
 
 @font-face {
   font-family: "Avenir - Book - 45";
-  src: url(/public/Fonts/avenir/Avenir-Book.ttf);
+  src: url(/public/Fonts/avenir/Avenir-Book.ttf) format("opentype");
 }
 
 .swiper-slide {
